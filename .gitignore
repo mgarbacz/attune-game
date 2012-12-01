@@ -1,0 +1,5 @@
+# Ignoring osx ds_store 
+.DS_Store
+
+# Ignoring Webstorm's files
+.idea
